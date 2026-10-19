@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/spec/rules/0/host",
+    "value": "web-lab.k3s.local"
+  },
+  {
+    "op": "replace",
+    "path": "/spec/rules/1/host",
+    "value": "api-lab.k3s.local"
+  }
+]
